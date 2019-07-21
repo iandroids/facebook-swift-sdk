@@ -1,4 +1,4 @@
-# Facebook SDK in Swift (Beta)
+# [Facebook](https://aapks.com/apk/facebook/) SDK in Swift (Beta)
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.0.x-orange.svg)](https://swift.org)
 [![Platforms](https://img.shields.io/cocoapods/p/FacebookCore.svg)](https://cocoapods.org/pods/FacebookCore)
@@ -113,7 +113,7 @@ $(SRCROOT)/Carthage/Build/iOS/FacebookCore.framework
 $(SRCROOT)/Carthage/Build/iOS/FBSDKCoreKit.framework
 ```
 
-### Using Facebook SDK as a sub-project
+### Using [Facebook](https://aapks.com/apk/facebook/) SDK as a sub-project
 
 While not recommended, it is entirely possible for you to build the Facebook SDK for Swift outside of any dependency
 management system.
